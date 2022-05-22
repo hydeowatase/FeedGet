@@ -6,7 +6,7 @@ app.use(express.json());
 
 app.use(routes);
 
-const port = 3335;
+const port = 3333;
 
 app.listen(port, () => {
   console.log(`HTTP server running and listen on port ${port}`);

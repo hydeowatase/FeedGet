@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1653274780756" clover="3.2.0">
-  <project timestamp="1653274780757" name="All files">
+<coverage generated="1653277056684" clover="3.2.0">
+  <project timestamp="1653277056684" name="All files">
     <metrics statements="47" coveredstatements="47" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="56" coveredelements="56" complexity="0" loc="47" ncloc="47" packages="1" files="1" classes="1"/>
     <file name="submit-feedback-service.ts" path="/media/hydeowatase/Novo volume/Workspaces/Linux/Rocketseat/FeedGet/server/src/services/submit-feedback-service.ts">
       <metrics statements="47" coveredstatements="47" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
